@@ -1,123 +1,103 @@
+<center><span style="font-size: 40px; color: #00011;"><b>GASTÓN PARRA</b></span></center>
+
+<center><span style="font-size: 20px;"><b> INGENIERÍA ESTRUCTURAL Y MONITOREO DE ESTRUCTURAS</b></span></center>
+
 ---
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+</p>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## **Presentación**
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.researchgate.net/profile/Klever-Parra-2)
+[![ResearchGate](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.researchgate.net/profile/Klever-Parra-2)
+ORCID: orcid.org/0000-0001-6113-4553
+
+Estudie Ingeniería Civil con mención en estructuras en la Escuela Politécnica Nacional en Quito, Ecuador y me gradué en febrero del año 2016.
+
+Después tuve la oportunidad de trabajar en un Centro de Investigación relacionado a estructuras desde 2014 hasta el 2021.
+
+También, estudié la maestría de Investigación en Ingeniería Civil en estructuras de la Universidad de las Fuerzas Armadas ESPE en Quito, Ecuador y cuyo tema de tesis estoy finalizando.
+
+Mis expectativas acerca del doctorado son desarrollar nuevas competencias de investigación, adquirir nuevos conocimientos y mejorar mis habilidades para que puedan ser aplicados en mi investigación y en mi vida profesional.
+
+Mi línea de investigación esta asociada al estudio de comportamiento de sistemas no lineales, variación de parámetros dinámicos de estructuras, interacción suelo estructura.
+
+
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\Foto GP.jpg" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Gastón Parra | Update: 22/11/23 | Tarjeta de presentación | Python</span>
+  </div>
+</div>
+
+
+<p align="center">
+<img src="assets\img\GP.jpeg" width="100%" height="100%">
+</p>
+
+
+## Publicaciones
+Modification of the data-driven period/height relationship for buildings located in seismic-prone regions, 2020.
+
+<dd>Bulletin of Earthquake Engineering. Q1</dd>
+
+<br>
+
+
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\Foto GP.jpg" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">GastónParra | Update: 22/11/23 | Tomado de: Bulletin of Earthquake Engineering | 2020-03</span>
+  </div>
+</div>
+
+<p align="center">
+<img src="assets\img\paper1.png" width="100%" height="100%">
+</p>
+
+Modeling and calibration of an infill frame-building, using ambient vibration tests and Genetic Algorithms, 2020.
+
+<dd>International Journal of Structural Engineering. Q3</dd>
+
+<br>
+
+
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\Foto GP.jpg" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">GastónParra | Update: 22/11/23 | Tomado de: International Journal of Structural Engineering | Published Online: 2020-08</span>
+  </div>
+</div>
+
+<p align="center">
+<img src="assets\img\paper2.png" width="100%" height="100%">
+</p>
+
+## GP Ingeniería Estructural 
+
+Diseño y Construcción de Estructuras en acero, hormigón armado.  
+Revisión de diseño estructural.
+
+
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="assets\img\Foto GP.jpg" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">GastónParra | Update: 22/11/23 | Proyectos | Estructuras</span>
+  </div>
+</div>
+
+<p align="center">
+<img src="assets\img\GPIE.png" width="100%" height="100%">
+</p>
+
+
+## Apuntes de Ingeniería Estructural
+Redes sociales
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/gast%C3%B3n-parra-246a863b/)
+[![ResearchGate](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.researchgate.net/profile/Klever-Parra-2)
+ORCID: orcid.org/0000-0001-6113-4553
+
+<center> © 2023 Gastón Parra </center>
