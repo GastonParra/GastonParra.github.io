@@ -94,7 +94,7 @@ Revisión de diseño estructural.
 </p>
 
 
-## Apuntes de Ingeniería Estructural
+
 Redes sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/gast%C3%B3n-parra-246a863b/)
