@@ -11,7 +11,10 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.researchgate.net/profile/Klever-Parra-2)
-[![ResearchGate](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.researchgate.net/profile/Klever-Parra-2)
+<a href="https://www.researchgate.net/profile/Klever-Parra-2">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="ResearchGate Logo" width="100" height="20">
+</a>
+
 ORCID: orcid.org/0000-0001-6113-4553
 
 Estudie Ingeniería Civil con mención en estructuras en la Escuela Politécnica Nacional en Quito, Ecuador y me gradué en febrero del año 2016.
@@ -54,7 +57,7 @@ Modification of the data-driven period/height relationship for buildings located
 </div>
 
 <p align="center">
-<img src="assets\img\paper1.png" width="100%" height="100%">
+<img src="assets\img\Paper1.png" width="100%" height="100%">
 </p>
 
 Modeling and calibration of an infill frame-building, using ambient vibration tests and Genetic Algorithms, 2020.
@@ -72,7 +75,7 @@ Modeling and calibration of an infill frame-building, using ambient vibration te
 </div>
 
 <p align="center">
-<img src="assets\img\paper2.png" width="100%" height="100%">
+<img src="assets\img\Paper2.png" width="100%" height="100%">
 </p>
 
 ## GP Ingeniería Estructural 
@@ -97,7 +100,8 @@ Revisión de diseño estructural.
 Redes sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/gast%C3%B3n-parra-246a863b/)
-[![ResearchGate](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.researchgate.net/profile/Klever-Parra-2)
-ORCID: orcid.org/0000-0001-6113-4553
+<a href="https://www.researchgate.net/profile/Klever-Parra-2">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="ResearchGate Logo" width="100" height="20">
+</a>
 
 <center> © 2023 Gastón Parra </center>
