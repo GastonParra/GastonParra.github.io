@@ -79,6 +79,7 @@ Para obtener más información sobre las investigaciones realizadas, los invito 
 Redes sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/gast%C3%B3n-parra-246a863b/)
+
 <a href="https://www.researchgate.net/profile/Klever-Parra-2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="ResearchGate Logo" width="100" height="20">
 </a>
