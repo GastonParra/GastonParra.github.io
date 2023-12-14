@@ -15,20 +15,21 @@
 
 ORCID: orcid.org/0000-0001-6113-4553
 
-Estudie Ingeniería Civil con mención en estructuras en la Escuela Politécnica Nacional en Quito, Ecuador y me gradué en febrero del año 2016, donde tuve la oportunidad de estudiar la insturmentación de estructuras a travez de vibraciones ambientales, y poder proponer una fórmula para las edificaciones de hormigón armado en Quito, pionera en Ecuador. 
+studie Ingeniería Civil con mención en estructuras en la Escuela Politécnica Nacional en Quito, Ecuador y me gradué en febrero del año 2016, donde tuve la oportunidad de estudiar la insturmentación de estructuras a travez de vibraciones ambientales, y poder proponer una fórmula para las edificaciones de hormigón armado en Quito, pionera en Ecuador.
 
-Después tuve la oportunidad de trabajar en un Centro de Investigación relacionado a estructuras desde 2014 hasta el 2021, fortaleciendo el área experimental de los conocimientos teóricos, resaltando la participación en algunos proyectos de ensayos quaiestáticos de escala real de marcos de aceros, conexiones de acero, mampostería confinada, mampostería enchapada, entre otros. Participando en proyectos de vinculación con la comunidad en temas de reforzamiento de edificaciones informales a gran escala. 
+Después tuve la oportunidad de trabajar en un Centro de Investigación relacionado a estructuras desde 2014 hasta el 2021, fortaleciendo el área experimental de los conocimientos teóricos, resaltando la participación en algunos proyectos de ensayos quaiestáticos de escala real de marcos de aceros, conexiones de acero, mampostería confinada, mampostería enchapada, entre otros. Participando en proyectos de vinculación con la comunidad en temas de reforzamiento de edificaciones informales a gran escala.
 
-También, estudié la maestría de Investigación en Ingeniería Civil en estructuras de la Universidad de las Fuerzas Armadas ESPE en Quito, Ecuador y cuyo tema de tesis trata sobre la evaluación de edificaciones aplicando normativa ASCE 41-17, aquí se consideran la calibración de modelos toericos en conjunto a datos de vibración ambiental. 
+También, estudié la maestría de Investigación en Ingeniería Civil en estructuras de la Universidad de las Fuerzas Armadas ESPE en Quito, Ecuador y cuyo tema de tesis trata sobre la evaluación de edificaciones aplicando normativa ASCE 41-17, aquí se consideran la calibración de modelos toericos en conjunto a datos de vibración ambiental.
 
-Actualmente, estudio un doctorado de Ingeniería en Ciencias, donde estoy desarrollando nuevas competencias de investigación, los temas estudiados son: Monitoreo de salud estructura, identificación de daño, estudioa de la variación de las propiedades modales durante terremotos, y el estudio de la interacción suelo estructura. 
+Actualmente, estudio un doctorado de Ingeniería en Ciencias, donde estoy desarrollando nuevas competencias de investigación, los temas estudiados son: Monitoreo de salud estructura, identificación de daño, estudioa de la variación de las propiedades modales durante terremotos, y el estudio de la interacción suelo estructura.
 
-Además, poseo experiencia en la participación activa en proyectos de diseño estructural y evaluación de edificaciones. 
+Además, poseo experiencia en la participación activa en proyectos de diseño estructural y evaluación de edificaciones.
+
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\Foto GP.jpg" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Gastón Parra | Update: 22/11/23 | Tarjeta de presentación | Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Gastón Parra | Update: 22/11/23 | Tarjeta de presentación
   </div>
 </div>
 
@@ -74,6 +75,13 @@ Modeling and calibration of an infill frame-building, using ambient vibration te
 <p align="center">
 <img src="assets\img\Paper2.png" width="100%" height="100%">
 </p>
+Para obtener más información sobre las investigaciones realizadas, los invito a visitar mi perfil en LinkedIn o ResearchGate.
+Redes sociales
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/gast%C3%B3n-parra-246a863b/)
+<a href="https://www.researchgate.net/profile/Klever-Parra-2">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="ResearchGate Logo" width="100" height="20">
+</a>
 
 ## GP Ingeniería Estructural 
 
@@ -95,10 +103,9 @@ Revisión de diseño estructural.
 
 
 Redes sociales
+Mas información de los estudios de ingeniería estructural en: 
+https://www.instagram.com/gp_ingenieria_construccion/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/gast%C3%B3n-parra-246a863b/)
-<a href="https://www.researchgate.net/profile/Klever-Parra-2">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="ResearchGate Logo" width="100" height="20">
-</a>
+
 
 <center> © 2023 Gastón Parra </center>
