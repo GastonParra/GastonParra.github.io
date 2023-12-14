@@ -13,6 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="ResearchGate Logo" width="100" height="20">
 </a>
 
+
 ORCID: orcid.org/0000-0001-6113-4553
 
 Soy un profesional en el campo de la ingeniería civil, con especialización en estructuras, graduado de la Escuela Politécnica Nacional en Quito, Ecuador,  con título de Ingeniero Civil con mención en estructuras en febrero de 2016.  Durante la investigación realizada en la Escuela Politécnica Nacional, se destaca el enfoque innovador en el campo de la instrumentación de estructuras a través de vibraciones ambientales. La contribución más significativa fue la formulación de una ecuación pionera para la determinación del periodo fundamental para edificaciones de hormigón armado en Quito, Ecuador. 
